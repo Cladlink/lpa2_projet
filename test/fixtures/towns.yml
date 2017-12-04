@@ -9,3 +9,8 @@ two:
   name: Washington
   latitude: 1.5
   longitude: 1.5
+
+inexisting:
+  name: villageInexistant
+  latitude: 1.2
+  longitude: 1.2
